@@ -7,17 +7,37 @@
 
 </div>
 
-<!-- 恢复蛇图：在 Actions 可用后，把下面 <details> 整段删掉，改回指向 output 分支的 <picture> 块（见本文件 git 历史） -->
+<!-- 有 output 分支 SVG 后：取消下面 picture 的注释，或删掉外层 HTML 注释；并视情况删掉本 <details> 说明 -->
 <details>
-<summary><strong>贡献蛇动画</strong>（当前未展示 · 避免裂图）</summary>
+<summary><strong>贡献蛇动画</strong>（本地生成 / Actions）</summary>
 
-你的 workflow 无法启动时（例如提示 <em>account is locked due to a billing issue</em>），不会生成 <code>output</code> 分支上的 SVG，主页就会出现裂图。  
-<strong>处理方式：</strong>
+**为何裂图：** <code>output</code> 分支上还没有两个 SVG 时，下面 <code>&lt;picture&gt;</code> 的链接会 404。
 
-1. 在 GitHub 侧解除账户限制后，到仓库 <strong>Actions</strong> 里手动运行 <code>snake.yml</code>，成功后把本 README 改回使用 <code>raw.githubusercontent.com/.../output/...</code> 的 <code>&lt;picture&gt;</code> 引用。  
-2. 或在本地用 <a href="https://github.com/Platane/snk">Platane/snk</a> 生成 SVG，自行推到 <code>output</code> 分支后再恢复上述引用。
+**方式 A · GitHub Actions：** 账户可用 Actions 时，在仓库 <strong>Actions</strong> 里运行 <code>snake.yml</code>。
+
+**方式 B · 本机生成并推送（与 Actions 产物一致）：**
+
+1. 安装 **Node.js 18+**（推荐 20+）。  
+2. 准备 **<code>GITHUB_TOKEN</code>**：匿名调用 GitHub API 易触发限流，snk 会 <code>fetch failed</code>。已装 <a href="https://cli.github.com/">GitHub CLI</a> 时：  
+   <code>export GITHUB_TOKEN="$(gh auth token)"</code>  
+   否则在 <a href="https://github.com/settings/tokens">Developer settings → Tokens</a> 创建 PAT，至少能读你的贡献图（一般勾选只读用户相关权限即可）。  
+3. 在仓库根目录执行：  
+   <code>chmod +x scripts/generate-snake-local.sh scripts/push-snake-output.sh</code>  
+   <code>./scripts/generate-snake-local.sh</code>  
+   会在 <code>snake-dist/</code> 生成 <code>github-contribution-grid-snake.svg</code> 与深色版。  
+4. 推送到远程 <code>output</code> 分支：  
+   <code>./scripts/push-snake-output.sh</code>  
+5. 把下面「蛇图」的 <code>&lt;picture&gt;</code> **取消注释**（或从 git 历史里恢复），保存后主页即可显示。
 
 </details>
+
+<!--
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peauntxja/Peauntxja/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peauntxja/Peauntxja/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Peauntxja/Peauntxja/output/github-contribution-grid-snake.svg" />
+</picture>
+-->
 
 ---
 
