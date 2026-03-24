@@ -35,7 +35,7 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Peauntxja&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peauntxja&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Peauntxja&theme=tokyonight&hide_border=true" alt="Streak stats" />
+<img height="165" src="https://streak-stats.demolab.com/?user=Peauntxja&theme=tokyonight&hide_border=true" alt="Streak stats" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=Peauntxja&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 
