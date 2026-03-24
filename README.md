@@ -7,17 +7,6 @@
 
 </div>
 
-<details>
-<summary><strong>贡献蛇动画</strong>（说明 · 本地生成 / Actions）</summary>
-
-**若裂图：** <code>output</code> 分支上还没有两个 SVG 时，下方图片会 404。
-
-**方式 A · GitHub Actions：** 在仓库 <strong>Actions</strong> 里运行 <code>snake.yml</code>。
-
-**方式 B · 本机：** 见 <code>scripts/generate-snake-local.sh</code>、<code>scripts/push-snake-output.sh</code>；需 <code>GITHUB_TOKEN</code>（可用 <code>export GITHUB_TOKEN="$(gh auth token)"</code>）。
-
-</details>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peauntxja/Peauntxja/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peauntxja/Peauntxja/output/github-contribution-grid-snake.svg" />
