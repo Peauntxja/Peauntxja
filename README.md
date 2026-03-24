@@ -15,29 +15,22 @@
 
 ---
 
-### 关于我 · About Me
+### About Me
 
-#### 中文
+I’m a **Python-focused developer** who ships **backend services, automation, and web-facing products**. I spend most of my time in the **Python 3** ecosystem—designing **REST / JSON APIs**, applying **type hints**, **Pydantic-style** modeling where it fits, and keeping codebases **testable** with **pytest**, sensible packaging, and CI-friendly workflows.
 
-- **Python 为主**：Web / API（**FastAPI、Django** 等）、脚本与自动化、数据处理与简单 ETL、内部工具与 CLI；熟悉 **异步、依赖注入、分层与模块化**，注重可读性与可测试性。  
-- **工程习惯**：**类型提示（typing）**、**pytest** 等测试、日志与错误处理、配置与环境管理；在合适场景使用 **Celery / 任务队列**、**Redis** 做缓存或消息、**PostgreSQL / MongoDB** 等存储选型。  
-- **Web**：全栈视角下的接口契约、性能与可访问性；与前端协作交付完整产品体验。  
-- 持续学习、欢迎 **Issue / PR / 技术交流**。
+- **Web & APIs**: **FastAPI** and **Django** (plus **Flask** when lightweight fits); **OpenAPI**, auth patterns, middleware, and pragmatic performance tuning (**async** / workers when the workload needs it).  
+- **Data & platform**: **PostgreSQL**, **MongoDB**, **MySQL**, **Redis** (cache & queues); background work with **Celery**-style task queues; **Docker** + **Kubernetes**-aware deployments and **Nginx** in front when needed.  
+- **Beyond the backend**: comfortable across the **JavaScript / TypeScript** stack (**Vue**, **React**, **Node.js**) to collaborate on end-to-end features, UX, and API contracts.  
+- **How I work**: readable modules, logging you can trust, and configs that survive production—always learning; **issues, PRs, and discussions** are welcome.
 
-#### English
-
-- **Python-first**: building **HTTP APIs and backends** with **FastAPI, Django**, and similar stacks; **automation**, **data wrangling / light ETL**, **internal tools**, and CLIs—with **async**, DI, and clear layering where it helps.  
-- **Engineering**: **type hints**, **pytest**-style testing, structured logging, and sensible config; **Celery / task queues**, **Redis**, and **PostgreSQL / MongoDB** when the problem calls for it.  
-- **Web**: full-stack mindset—solid **API design**, performance, and UX working with front-end stacks.  
-- Always learning; **issues, PRs, and discussions** are welcome.
-
-### 技术栈
+### Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,redis,postgres,mongodb,mysql,docker,kubernetes,nginx,vue,react,js,ts,html,css,nodejs,git,linux,vscode&perline=7" alt="Skills" />
 </p>
 
-### GitHub 数据
+### GitHub Stats
 
 <div align="center">
 
