@@ -1,9 +1,31 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=640&height=60&lines=Hi%2C+I'm+MIZUKI+%F0%9F%91%8B;Python+%26+Web+development;APIs%2C+automation%2C+and+the+modern+stack" alt="Typing SVG" />
+<!-- Hero: Slant-style ASCII — regenerate at https://patorjk.com/software/taag/ Font: Slant, Text: MIZUKI -->
+<pre>
+    _   _       _ _        _
+   / \ | |_ _ _(_) |_ _  _| |
+  / _ \| __| '__| | __| |/ _ |
+ / ___ \ |_| |  | | |_| | (_| |
+/_/   \_\__|_|  |_|\__|_|\__,_|
+</pre>
 
-[![Profile views](https://komarev.com/ghpvc/?username=Peauntxja&color=58a6ff&style=flat-square)](https://github.com/Peauntxja)
-[![GitHub followers](https://img.shields.io/github/followers/Peauntxja?style=flat-square&logo=github&label=followers)](https://github.com/Peauntxja?tab=followers)
+**MIZUKI** · Python & Web
+
+Shanghai · **Python · APIs · Web · Automation**
+
+[![Profile views](https://komarev.com/ghpvc/?username=Peauntxja&color=58a6ff&style=for-the-badge)](https://github.com/Peauntxja)
+[![Followers](https://img.shields.io/github/followers/Peauntxja?style=for-the-badge&logo=github&label=followers)](https://github.com/Peauntxja?tab=followers)
+
+<!-- Tech badges: Python-first, for-the-badge style (Shields.io) -->
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 
 </div>
 
@@ -19,16 +41,35 @@
 
 I’m a **Python-focused developer** who ships **backend services, automation, and web-facing products**. I spend most of my time in the **Python 3** ecosystem—designing **REST / JSON APIs**, applying **type hints**, **Pydantic-style** modeling where it fits, and keeping codebases **testable** with **pytest**, sensible packaging, and CI-friendly workflows.
 
-- **Web & APIs**: **FastAPI** and **Django** (plus **Flask** when lightweight fits); **OpenAPI**, auth patterns, middleware, and pragmatic performance tuning (**async** / workers when the workload needs it).  
-- **Data & platform**: **PostgreSQL**, **MongoDB**, **MySQL**, **Redis** (cache & queues); background work with **Celery**-style task queues; **Docker** + **Kubernetes**-aware deployments and **Nginx** in front when needed.  
-- **Beyond the backend**: comfortable across the **JavaScript / TypeScript** stack (**Vue**, **React**, **Node.js**) to collaborate on end-to-end features, UX, and API contracts.  
+- **Web & APIs**: **FastAPI** and **Django** (plus **Flask** when lightweight fits); **OpenAPI**, auth patterns, middleware, and pragmatic performance tuning (**async** / workers when the workload needs it).
+- **Data & platform**: **PostgreSQL**, **MongoDB**, **MySQL**, **Redis** (cache & queues); background work with **Celery**-style task queues; **Docker** + **Kubernetes**-aware deployments and **Nginx** in front when needed.
+- **Beyond the backend**: comfortable across the **JavaScript / TypeScript** stack (**Vue**, **React**, **Node.js**) to collaborate on end-to-end features, UX, and API contracts.
 - **How I work**: readable modules, logging you can trust, and configs that survive production—always learning; **issues, PRs, and discussions** are welcome.
 
-### Tech Stack
+### Current focus
+
+- Building and hardening **HTTP APIs** with clear contracts and tests.
+- **Automation** and internal tooling that stays maintainable in Python.
+- **Full-stack** collaboration: APIs that match what the frontend actually needs.
+
+### Tech stack (icons)
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,redis,postgres,mongodb,mysql,docker,kubernetes,nginx,vue,react,js,ts,html,css,nodejs,git,linux,vscode&perline=7" alt="Skills" />
 </p>
+
+### Connect
+
+<div align="left">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Peauntxja-181717?style=for-the-badge&logo=github)](https://github.com/Peauntxja)
+
+<!-- Add your site / email when ready:
+[![Website](https://img.shields.io/badge/Website-yourdomain-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://example.com)
+[![Email](https://img.shields.io/badge/Email-contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+-->
+
+</div>
 
 ### GitHub Stats
 
