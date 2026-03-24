@@ -7,12 +7,17 @@
 
 </div>
 
-<!-- 贡献蛇：首次 push 后等待 Actions 跑完，或手动运行 workflow；若 404 属正常，跑完即有图 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peauntxja/Peauntxja/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peauntxja/Peauntxja/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Peauntxja/Peauntxja/output/github-contribution-grid-snake.svg" />
-</picture>
+<!-- 恢复蛇图：在 Actions 可用后，把下面 <details> 整段删掉，改回指向 output 分支的 <picture> 块（见本文件 git 历史） -->
+<details>
+<summary><strong>贡献蛇动画</strong>（当前未展示 · 避免裂图）</summary>
+
+你的 workflow 无法启动时（例如提示 <em>account is locked due to a billing issue</em>），不会生成 <code>output</code> 分支上的 SVG，主页就会出现裂图。  
+<strong>处理方式：</strong>
+
+1. 在 GitHub 侧解除账户限制后，到仓库 <strong>Actions</strong> 里手动运行 <code>snake.yml</code>，成功后把本 README 改回使用 <code>raw.githubusercontent.com/.../output/...</code> 的 <code>&lt;picture&gt;</code> 引用。  
+2. 或在本地用 <a href="https://github.com/Platane/snk">Platane/snk</a> 生成 SVG，自行推到 <code>output</code> 分支后再恢复上述引用。
+
+</details>
 
 ---
 
