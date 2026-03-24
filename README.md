@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+MIZUKI+%F0%9F%91%8B;Front-end+%26+Full-stack;Ship+code%2C+learn+fast%2C+stay+curious" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=640&height=60&lines=Hi%2C+I'm+MIZUKI+%F0%9F%91%8B;Python+%26+Web+development;APIs%2C+automation%2C+and+the+modern+stack" alt="Typing SVG" />
 
 [![Profile views](https://komarev.com/ghpvc/?username=Peauntxja&color=58a6ff&style=flat-square)](https://github.com/Peauntxja)
 [![GitHub followers](https://img.shields.io/github/followers/Peauntxja?style=flat-square&logo=github&label=followers)](https://github.com/Peauntxja?tab=followers)
@@ -23,14 +23,14 @@
 
 ### 关于我
 
-- 写 **Web / 前端**，也折腾脚本、工具链与自动化  
-- 相信 **可读性 > 聪明代码**，偏好类型约束与可维护结构  
-- 开源与协作友好，欢迎 Issue / PR / 技术交流  
+- 主力 **Python**：后端服务、脚本与自动化、数据处理与工程化落地  
+- **Web**：全栈与前端界面，关注接口设计、性能与可访问性  
+- 习惯用 **类型提示 / 测试 / 清晰分层** 把项目维护得可演进；欢迎 Issue / PR / 技术交流  
 
 ### 技术栈
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vue,react,js,ts,html,css,sass,nodejs,python,docker,git,vscode&perline=12" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,vue,react,js,ts,html,css,nodejs,docker,postgres,git,linux,vscode&perline=8" alt="Skills" />
 </p>
 
 ### GitHub 数据
@@ -50,8 +50,8 @@
 
 <div align="center">
 
-**Thanks for visiting — build something cool today.**
+**Thanks for visiting — Python · Web · keep shipping.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:238636&height=120&section=footer&text=Peauntxja&fontSize=42&fontAlignY=75&desc=Keep%20shipping.&descAlignY=55&descSize=16" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:238636&height=120&section=footer&text=Peauntxja&fontSize=42&fontAlignY=75&desc=Python+%26+Web&descAlignY=55&descSize=16" alt="Footer" />
 
 </div>
