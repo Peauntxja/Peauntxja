@@ -15,16 +15,26 @@
 
 ---
 
-### 关于我
+### 关于我 · About Me
 
-- 主力 **Python**：后端服务、脚本与自动化、数据处理与工程化落地  
-- **Web**：全栈与前端界面，关注接口设计、性能与可访问性  
-- 习惯用 **类型提示 / 测试 / 清晰分层** 把项目维护得可演进；欢迎 Issue / PR / 技术交流  
+#### 中文
+
+- **Python 为主**：Web / API（**FastAPI、Django** 等）、脚本与自动化、数据处理与简单 ETL、内部工具与 CLI；熟悉 **异步、依赖注入、分层与模块化**，注重可读性与可测试性。  
+- **工程习惯**：**类型提示（typing）**、**pytest** 等测试、日志与错误处理、配置与环境管理；在合适场景使用 **Celery / 任务队列**、**Redis** 做缓存或消息、**PostgreSQL / MongoDB** 等存储选型。  
+- **Web**：全栈视角下的接口契约、性能与可访问性；与前端协作交付完整产品体验。  
+- 持续学习、欢迎 **Issue / PR / 技术交流**。
+
+#### English
+
+- **Python-first**: building **HTTP APIs and backends** with **FastAPI, Django**, and similar stacks; **automation**, **data wrangling / light ETL**, **internal tools**, and CLIs—with **async**, DI, and clear layering where it helps.  
+- **Engineering**: **type hints**, **pytest**-style testing, structured logging, and sensible config; **Celery / task queues**, **Redis**, and **PostgreSQL / MongoDB** when the problem calls for it.  
+- **Web**: full-stack mindset—solid **API design**, performance, and UX working with front-end stacks.  
+- Always learning; **issues, PRs, and discussions** are welcome.
 
 ### 技术栈
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,vue,react,js,ts,html,css,nodejs,docker,postgres,git,linux,vscode&perline=8" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,redis,postgres,mongodb,mysql,docker,kubernetes,nginx,vue,react,js,ts,html,css,nodejs,git,linux,vscode&perline=7" alt="Skills" />
 </p>
 
 ### GitHub 数据
