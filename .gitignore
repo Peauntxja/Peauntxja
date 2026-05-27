@@ -1,3 +1,5 @@
 .DS_Store
-.snk-cache/
 snake-dist/
+
+# Override global gitignore so profile AGENTS.md is tracked (see missuo/missuo)
+!AGENTS.md
