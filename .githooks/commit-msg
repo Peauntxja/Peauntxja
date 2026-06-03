@@ -1,0 +1,5 @@
+#!/bin/sh
+tmp=$(mktemp)
+grep -v '^Co-authored-by: Cursor <cursoragent@cursor.com>$' "$1" > "$tmp"
+mv "$tmp" "$1"
+exit 0
