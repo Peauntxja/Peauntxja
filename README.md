@@ -1,7 +1,12 @@
-Hi, I'm **MIZUKI** (**Peauntxja**).
+Hi, I'm **MIZUKI** (**Peauntxja** on GitHub).
 
-Shanghai.
+- 📍 Based in **Shanghai**.
+- 🐍 **Python-first** developer: I ship **backend services, automation, and HTTP APIs**—mostly **FastAPI**, **Django**, and **Flask** when a lighter stack fits.
+- 🌐 **Web & APIs**: **REST / JSON**, OpenAPI-style contracts, auth and middleware patterns; comfortable with **Vue** and **TypeScript** for end-to-end features and clear API boundaries.
+- 🗄️ **Data & platform**: **PostgreSQL**, **MongoDB**, **MySQL**, **Redis** (cache and queues); background work with **Celery**-style tasks; **Docker** and **Kubernetes**-aware deployments when production needs it.
+- 🧪 I care about **readable modules**, **pytest**, type hints where they help, and configs that survive production.
+- 🤝 Open to **issues, PRs, and discussions** on my repos.
 
-[git2logs](https://github.com/Peauntxja/git2logs) 从 GitLab 拉取指定作者的提交，生成开发日报、统计和工时，可导出 Markdown、Excel、HTML/PNG。带桌面界面，可选模型润色。
+Feel free to contact me via [GitHub](https://github.com/Peauntxja) or [Email](mailto:zed@linux.do).
 
-[Email](mailto:mizukixja@gmail.com)
+You can install my skills with `npx skills add Peauntxja/Peauntxja`. The `profile` skill summarizes my stack and how agents should collaborate on my projects.
